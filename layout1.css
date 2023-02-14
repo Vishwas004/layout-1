@@ -1,4 +1,19 @@
-
+.l
+{
+    position: absolute;
+    top: 10;
+    right:3%;
+    left: 17%;
+    color: #036DB9;
+}
+.m{
+    position: absolute;
+    top: 80px;
+    right: 4%;
+    left: 52%;
+    font-size: 26px;
+    color: #036DB9;
+}
 .logo
 {
     position: absolute;
